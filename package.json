@@ -21,7 +21,7 @@
     "url": "https://github.com/gnievap/asincronismo-js/issues"
   },
   "homepage": "https://github.com/gnievap/asincronismo-js#readme",
-  "dependencies": {
+  "devDependencies": {
     "xmlhttprequest": "^1.8.0"
   }
 }
